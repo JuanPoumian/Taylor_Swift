@@ -1,4 +1,4 @@
-# Analyze Taylor Swift Lyrics: Project Overview
+# Analyze Taylor Swift's Lyrics: Project Overview
 
 ![Taylor-Swift-Logo-2014](https://user-images.githubusercontent.com/114705723/223887220-f80447b4-ff8d-4351-a4ab-1acab9bf35d8.jpg)
 
