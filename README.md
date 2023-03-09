@@ -13,4 +13,4 @@ The dataset under the name **taylor_swift_lyrics_2006-2022_all.csv** contains th
 * lyric - Lyric at each line
 * line - Line number per song
 
-The other dataset under the name **** contains the following variables:
+The other dataset under the name **album_year_name.csv** contains the following variables:
