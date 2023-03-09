@@ -19,4 +19,11 @@ The dataset named **album_year_name.csv** comprises the following variables:
 * release_year: Year in which the album was released.
 * artist_name: Name of the artist who released the album.
 
-The datasets were provided by [codecademy](https://www.codecademy.com)
+The datasets were provided by [codecademy](https://www.codecademy.com).
+
+# Analysis
+
+
+## Resources Used
+**Python Version:** 3.9. 
+**Packages:** pandas, string, seaborn, matplotlib, collections, nltk.
