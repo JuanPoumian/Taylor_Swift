@@ -27,3 +27,5 @@ The datasets were provided by [codecademy](https://www.codecademy.com).
 ## Resources Used
 **Python Version:** 3.9. 
 **Packages:** pandas, string, seaborn, matplotlib, collections, nltk.
+
+
